@@ -8,7 +8,7 @@ First, run the development server(Provide ENV environment variables in .env file
 
 Install all the dependencies present in package.json
 npm install
-Test
+
 
 ```bash
 npm run dev
